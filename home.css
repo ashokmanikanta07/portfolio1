@@ -70,6 +70,7 @@ header{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    position: fixed;
 }
 
 .buttonscenter{
